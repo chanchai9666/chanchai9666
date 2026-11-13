@@ -1,4 +1,4 @@
-<h1 align="center">Chanchai</h1>
+<h1 align="center">ChanChai</h1>
 
 <p align="center">
   Building software that solves real operational problems.
